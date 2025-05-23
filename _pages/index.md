@@ -11,12 +11,8 @@ I'm Ben - a builder based out of Chicago. I'm building energy for thinkers @ Pea
 
 <strong>Entry points</strong>
 
-<ul>
-<li>
-[[About]]
-[[Writing]]
-<li>
-</ul>
+- [[Projects]]
+- [[Writing]]
 
 <style>
   .wrapper {
