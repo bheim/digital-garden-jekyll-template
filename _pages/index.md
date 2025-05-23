@@ -9,15 +9,10 @@ permalink: /
 
 I'm Ben - a builder based out of Chicago. I'm building energy for thinkers @ Peak.
 
-<strong>Recently updated notes</strong>
+<strong>Entry points</strong>
 
 <ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
+[[Writing]]
 </ul>
 
 <style>
