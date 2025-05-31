@@ -79,3 +79,13 @@ Think of Tim Ferriss' BrainQuicken - he was was building this for people interes
 #### In conclusion
 
 I think side-hustlers are the most promising group for marketing Peak and I think we should pour additional resources and thought into reaching them. That said, I think the student market is also strong, and so developing tests for reaching both these groups will be the most effective strategy. In fact, we can look at the intersection for potentially the best product-market fit.
+
+
+#### Reviewing the framework
+
+One of the difficulties with fleshing out a framework and then implementing it for a question like this is that the analysis is inherently qualitative. How does it serve the target customer? You can't quantify that - especially before going to market.
+
+That said, there's some changes I would make. When evaluating the size of the target market, I should have gone full out TAM or at least had some necessary condition to be achieved for it to pass inspection.
+
+Regarding how easy it is to target a group, that's something that will unveil over time, but I think in broad strokes it was helpful to evaluate it the way I did. Willingness to pay is also difficult to measure.
+
