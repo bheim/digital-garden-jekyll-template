@@ -7,7 +7,7 @@ permalink: /
 
 # Home
 
-I'm Ben - a builder based out of Chicago. I'm building energy for thinkers @ Peak.
+I'm Ben - a builder based out of Chicago. I'm building energy for thinkers @ [Peak](https://drinkpeak.shop/).
 
 <strong>Entry points</strong>
 
