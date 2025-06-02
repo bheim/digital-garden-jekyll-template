@@ -1,15 +1,15 @@
-I shouldn't be, and you probably shouldn't be either. While ChatGPT usage leads ot carbon emissions, other choices you make lead to orders of magnitude more emissions.
+I shouldn't be, and you probably shouldn't be either. While ChatGPT usage leads to an increase in your carbon emissions, other choices you cause orders of magnitude more emissions.
 
 Using the most liberal (in this case, highest) estimate of carbon emissions from a query from chatgpt, a single query (queries dominate training in terms of energy usage) will use [.01 kWh of electricity](https://limited.systems/articles/google-search-vs-chatgpt-emissions/#1).
 
 If I'm a super-power user of ChatGPT and use it 40 times a day for 365 days in a year, this means I'm using
-$$
-40 \text{ queries per day } * 365 \text { days per year } * .01 \text{ kWh per query} = 146 \text{ kWh}
-$$
+
+40 queries per day  x 365  days per year x .01 kWh per query= 146 \text{ kWh}
+
 [On average](https://www.eia.gov/tools/faqs/faq.php?id=74&t=11#:~:text=U.S.%20net%20generation%20resulted%20in,of%20the%20electric%20power%20plant.), for each kWh used, .81 pounds of CO2 emissions are released, resulting in 
-$$
-146 \text{ kWh } * .81 \text{ pounds CO2 per kWh} = 118 \text{ pounds of CO2}
-$$
+
+146  kWh x .81 pounds CO2 per kWh = 118 pounds of CO2
+
 This isn't a very tractable number. But, assuming I drive a gasoline car that gets 25 mpg, here's what generates the same amount of CO2.
 
 If the grocery store is 5 miles away, this is 15 trips to the grocery store and back.
