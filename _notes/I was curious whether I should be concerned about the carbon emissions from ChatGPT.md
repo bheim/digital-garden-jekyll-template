@@ -1,10 +1,10 @@
-I shouldn't be, and you probably shouldn't be either. While ChatGPT usage leads to an increase in your carbon emissions, other choices you cause orders of magnitude more emissions.
+I shouldn't be, and you probably shouldn't be either. While ChatGPT usage leads to an increase in your carbon emissions, other choices you make cause orders of magnitude more emissions.
 
 Using the most liberal (in this case, highest) estimate of carbon emissions from a query from chatgpt, a single query (queries dominate training in terms of energy usage) will use [.01 kWh of electricity](https://limited.systems/articles/google-search-vs-chatgpt-emissions/#1).
 
-If I'm a super-power user of ChatGPT and use it 40 times a day for 365 days in a year, this means I'm using
+If I'm a power user of ChatGPT and use it 40 times a day for 365 days in a year, this means I'm using
 
-40 queries per day  x 365  days per year x .01 kWh per query= 146 \text{ kWh}
+40 queries per day  x 365  days per year x .01 kWh per query= 146  kWh
 
 [On average](https://www.eia.gov/tools/faqs/faq.php?id=74&t=11#:~:text=U.S.%20net%20generation%20resulted%20in,of%20the%20electric%20power%20plant.), for each kWh used, .81 pounds of CO2 emissions are released, resulting in 
 
@@ -13,12 +13,20 @@ If I'm a super-power user of ChatGPT and use it 40 times a day for 365 days in a
 This isn't a very tractable number. But, assuming I drive a gasoline car that gets 25 mpg, here's what generates the same amount of CO2.
 
 If the grocery store is 5 miles away, this is 15 trips to the grocery store and back.
+
 If I commute 10 miles to work every day, this is 7.5 commutes.
+
 If I go on a road trip from Chicago to LA, this is 6.25% of my trip.
 
 **Let's say I switch to an EV from a gasoline car and that I commute 20 miles to work and back every day.** 
 
-This would lead to the production of 3872 pounds of CO2. If I switch to an EV, it would be about a fourth of that, effectively saving nearly 3000 pounds of CO2 emissions
+Driving my gas car leads to the production of 3872 pounds of CO2. If I switch to an EV, it would be about a fourth of that, effectively saving nearly 3000 pounds of CO2 emissions.
+
+This is one of many examples where the emissions from ChatGPT are orders of magnitude smaller than the emissions from other decisions you make. Four hour 3 hour plane rides and that will be an extra 3 metric tons of CO2.
+
+Eating red meat once a week? That's 75% of a ton. If you replaced that with chicken, it would only be 7.5%.
+
+The real concern shouldn't be ChatGPT. It should be decisions to live far from home (where you'll fly often), driving a gasoline-powered car, and eating red meat.
 
 ##### This is [whataboutism](https://www.eia.gov/tools/faqs/faq.php?id=74&t=11#:~:text=U.S.%20net%20generation%20resulted%20in,of%20the%20electric%20power%20plant.)!
 
