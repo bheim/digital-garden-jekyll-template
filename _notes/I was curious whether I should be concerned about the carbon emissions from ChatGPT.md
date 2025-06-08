@@ -22,11 +22,11 @@ If I go on a road trip from Chicago to LA, this is 6.25% of my trip.
 
 Driving my gas car leads to the production of 3872 pounds of CO2. If I switch to an EV, it would be about a fourth of that, effectively saving nearly 3000 pounds of CO2 emissions.
 
-This is one of many examples where the emissions from ChatGPT are orders of magnitude smaller than the emissions from other decisions you make. Four hour 3 hour plane rides and that will be an extra 3 metric tons of CO2.
+This is one of many examples where the emissions from ChatGPT are orders of magnitude smaller than the emissions from other decisions you make. Two 3-hour plane rides and that's the equivalent of 163,000 ChatGPT queries. Yep, that's right - 163,000.
 
 Eating red meat once a week? That's 75% of a ton. If you replaced that with chicken, it would only be 7.5%.
 
-The real concern shouldn't be ChatGPT. It should be decisions to live far from home (where you'll fly often), driving a gasoline-powered car, and eating red meat.
+The real concern shouldn't be ChatGPT. It should be decisions to live far from family (where you'll fly often), driving a gasoline-powered car, and eating red meat.
 
 ##### This is [whataboutism](https://www.eia.gov/tools/faqs/faq.php?id=74&t=11#:~:text=U.S.%20net%20generation%20resulted%20in,of%20the%20electric%20power%20plant.)!
 
