@@ -39,3 +39,10 @@ Frankly, spending your time concerned about AI's carbon emissions is like using 
 From a policy perspective, it's far more effective to target increasing clean electricity generation as opposed to going after AI. One is far more upstream of the other and likely will have a bigger impact.
 
 Also, if you want to offset the CO2 emissions produced by your ChatGPT usage for the yera, you can do so here at [Wren](https://www.wren.co/offset-anything?amount=0.15&unit=ton). It will cost $1.50 (and this is likely an overestimate). If you want to offset all your carbon emissions, it will cost you ~$350 if you're an average American.
+
+
+### Extra Notes
+
+I found out using [this platform](https://convelyze.pages.dev/dashboard) that I actually clock in at just about 60 chats a day. 1.5x the amount I thought a power user would use. My assumption seems to be wrong or I'm just a super power user. 
+
+Anyways, this would only increase my estimates by 50%. On the scale of a year, we're looking at 60 x 365=21900 which is roughly an eighth of a 3-hour plane ride.  
