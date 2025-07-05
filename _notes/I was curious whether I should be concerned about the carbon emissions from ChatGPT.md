@@ -43,6 +43,6 @@ Also, if you want to offset the CO2 emissions produced by your ChatGPT usage for
 
 ### Extra Notes
 
-I found out using [this platform](https://convelyze.pages.dev/dashboard) that I actually clock in at just about 75 chats a day. 1.5x the amount I thought a power user would use. My assumption seems to be wrong or I'm just a super power user. 
+I found out using [this platform](https://convelyze.pages.dev/dashboard) that I actually clock in at just about 25 chats a day. A little less than the amount I thought a power user would use. I use ChatGPT quite a lot but I don't run automations on it, so my assumption seems to be somewhat right. 
 
-Anyways, this would only increase my estimates by 87.5% (I say only as comparisons remain on the scale of orders of magnitude). On the scale of a year, we're looking at 75 x 365=27375 which is roughly a sixth of a 3-hour plane ride.  
+Anyways, this would only increase my estimates by 87.5% (I say only as comparisons remain on the scale of orders of magnitude). On the scale of a year, we're looking at 25 x 365= 9125 which is roughly 6% of a 3-hour plane ride.
