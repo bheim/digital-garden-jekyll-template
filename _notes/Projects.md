@@ -2,9 +2,6 @@
 layout: default
 title: Projects
 ---
-
-These are only those projects which can actively be engaged with. A lot of them fail and I don't leave them out because they failed but rather because they aren't actively providing value.
-
 [Peak](https://drinkpeak.shop/) The drink for knowledge workers. Provides all-day focused energy to help you lock in and reach your peak. Crafted because I hate energy crashes and sough to destroy them. I did.
 
 [SuppStartup.com](https://suppstartup.com/) Easily generate supplement facts panels for startups. I paid $25 to get this done when I could have gotten it done for a dollar if i had this tool.
