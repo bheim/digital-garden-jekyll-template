@@ -3,8 +3,7 @@ layout: default
 title: CMSC 143
 render_with_liquid: "false"
 ---
-{% raw %}
-I took these notes in Autumn, 2023. From what students have shared with me, they have been relevant as recent as Spring, 2025.
+
 
 <aside> 💡 A function to commute factorial
 
