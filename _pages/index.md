@@ -13,6 +13,7 @@ I'm Ben - a builder based out of Chicago. I'm building energy for thinkers @ [Pe
 
 - [[Projects]]
 - [[Writing]]
+- [[UChicago Notes]]
 
 <style>
   .wrapper {
