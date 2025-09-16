@@ -1047,7 +1047,7 @@ double shape_area(struct tagged_shape s) {
 }
 
 //efficient method but still not amazing
-struct rectangle r = {{10, 20}, 5, 3};
+struct rectangle r = {% raw %} {{10, 20}, 5, 3}; {% endraw %}
 union shape s;
 s.r = r;
 struct tagged_shape shp = {r, RECTANGLE};
