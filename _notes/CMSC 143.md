@@ -1870,4 +1870,3 @@ int* selection_sort(int* unsorted, unsigned int len) {
 	
 	return unsorted;
 ```
-{% endraw %}
