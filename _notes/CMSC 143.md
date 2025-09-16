@@ -1,7 +1,9 @@
 ---
 layout: default
 title: CMSC 143
+render_with_liquid: "false"
 ---
+{% raw %}
 I took these notes in Autumn, 2023. From what students have shared with me, they have been relevant as recent as Spring, 2025.
 
 <aside> 💡 A function to commute factorial
@@ -950,8 +952,8 @@ void foo() {
 struct point ps[5];
 p[0].x = 12;
 struct point p = ps[0];
-//creatig structures by giving them lists of field values within list
-struct point ps2[] = {{1, 2}, {3, 4}};
+//creating structures by giving them lists of field values within list
+{% raw %} struct point ps2[] = { {1, 2}, {3, 4} }; {% endraw %}
 
 //list of 10 struct points
 struct point* ps3 = (struct point*)malloc(sizeof(struct point) * 10);
@@ -1868,3 +1870,4 @@ int* selection_sort(int* unsorted, unsigned int len) {
 	
 	return unsorted;
 ```
+{% endraw %}
