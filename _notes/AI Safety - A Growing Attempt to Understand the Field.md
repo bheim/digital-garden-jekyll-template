@@ -2,6 +2,12 @@ Over the past few weeks, I've taken part in an AI safety fundamentals group run 
 
 Its justification is a straightforward argument: there is a good chance that artificial super intelligence (ASI - which is AI that is more capable than all humans) poses a catastrophic risk to humans. When something more powerful than humans is created, we may become like the ants underneath the feet of humans. Moreover, this very well could happen in the next decade.
 
+### AI Capabilities
+How good will AI get and how will it happen?
+
+[[Situational Awareness, The Decade Ahead]]
+[[My Thoughts on AI Capabilities]]
+
 ### Alignment
 IBM defines AI alignment as **the process of encoding human values and goals into AI models to make them as helpful, safe and reliable as possible**. Cracking what this means is difficult, if not impossible, due to the moving targets within it. Human "values" and "goals" are not static and they are not common. Different people and cultures will have different notions of what AI should do.
 
