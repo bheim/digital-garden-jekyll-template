@@ -1,3 +1,5 @@
+*In response to reading Achenbrenner's Situational Awareness*
+
 I can't lie that I feel far out of my depth when writing about AI capabilities. When it comes to discussion about anything technical in AI, most things go out of my head. This is in spite of the fact of me majoring in CS.
 
 However, if I could boil down the simplicity of all of AI's technical advancement, we would either 1) have very bad AI or 2) already have AGI because if it was this simple to understand, we would have done it already. With all of this said, however, we can build out a fairly simple model (as developed by Leo Aschenbrenner in [[Situational Awareness, The Decade Ahead]]) for how to think about AI capabilities and where it will trend.
@@ -58,3 +60,5 @@ One conclusion I've drawn from reading Aschenbrenner's paper and writing this po
 For me, I join Aschenbrenner in defining AGI as when AI can automate an AI researcher. I define superintelligence as when AI can automate every single human job at a lower cost.
 
 Next, I'll be writing about AI safety because we've only solved one part of the problem - will AI become superintelligent - and we still have to answer the second part - how can we make superintelligence work for *us*?
+
+[[Is Aschenbrenner Right?]]
