@@ -1,14 +1,14 @@
-*In response to reading Achenbrenner's Situational Awareness*
+[[Is Aschenbrenner Right?]]
 
-I can't lie that I feel far out of my depth when writing about AI capabilities. When it comes to discussion about anything technical in AI, most things go out of my head. This is in spite of the fact of me majoring in CS.
+*A Personal Summary of Aschenbrenner's Situational Awareness*
 
-However, if I could boil down the simplicity of all of AI's technical advancement, we would either 1) have very bad AI or 2) already have AGI because if it was this simple to understand, we would have done it already. With all of this said, however, we can build out a fairly simple model (as developed by Leo Aschenbrenner in [[Situational Awareness, The Decade Ahead]]) for how to think about AI capabilities and where it will trend.
+We can build out a fairly simple model (as developed by Leopold Aschenbrenner in Situational Awareness, The Decade Ahead) for how to think about AI capabilities and where it will trend.
 
 When discussing AI advancement, every claim will relate back to an order of magnitude (an OOM). So 1 OOM is a 10xing, .5 OOMs is a ~3.2xing, .75 OOMs is a ~5.6xing and so on. It's exciting to talk about OOMs and reflects the general theory of a superintelligence takeoff.
 
-Aschenbrenner sees AGI as reflecting the level of competency of an advanced AI researcher. Once we reach this point and assuming it's cost-effective, we can enlist hundreds of millions of AI researchers (who are also AI) and we will compress AI advancement to occur at a breakneck speed. Namely, the speed of AI advancement depends on the current level of AI - as AI gets smarter, AI will advance quicker. This is exponential.
+Aschenbrenner defines AGI as an AI System that can automate an AI researcher. Once we reach this point and assuming it's cost-effective, we can enlist hundreds of millions of AI researchers (who are also AI) and we will compress AI advancement to occur at a breakneck speed. Namely, the speed of AI advancement depends on the current level of AI - as AI gets smarter, AI will advance quicker. This is exponential.
 
-There's two responses I've noticed among people once they hear this. The first is "Wow! Super-intelligence is fast approaching and will change everything so quickly." The second is "Ok, I get that the math works out this way but surely there's something that will limit it." These arguments tend to arise fairly intuitively for people but also tend to reflect naivete. I, myself, have flipped between both of these arguments frequently not based on the evidence I've seen but rather on which narrative better fits my world view.
+There's two responses I've heard from people in reaction to this claim. The first is "Wow! Super-intelligence is fast approaching and will change everything so quickly." The second is "Ok, I get that the math works out this way but surely there's something that will limit it."
 
 The truth is that there may be asymptotes and there is a pretty good notion of what they'll be. Aschenbrenner presents what we can call a 3-factor model for potential bottlenecks
 1. Compute limitations
@@ -19,22 +19,20 @@ AI development will take a whole lot of energy and computing power. The idea of 
 
 First, to define what what I mean by compute limitations: you can either have a limitation on 1) power generation or 2) chips.
 
-[This post by epoch.AI](https://epoch.ai/blog/can-ai-scaling-continue-through-2030) suggests that this will be the biggest limitation for the next few years. A few countervailing factors include that 1) GPUs are becoming more efficient per watt, 2) AI researchers will and have identified ways to more efficiently use GPUs beyond increases in pure hardware efficiency (point 1) and 3) we can spread out training so that the compute required at a single point in time is less.
+[This post by epoch.AI](https://epoch.ai/blog/can-ai-scaling-continue-through-2030) suggests that this will be the biggest limitation for the next few years. A couple countervailing factors include that 1) GPUs are becoming more efficient per watt, 2) AI researchers will and have identified ways to more efficiently use GPUs beyond increases in pure hardware efficiency (point 1) and 3) we can spread out training so that the compute required at a single point in time is less.
 
 On the energy side, the hyperscalars are investing significantly in the power rights to solar farms and nuclear plants. But, power plants and energy infrastructure is difficult to stand up in short amounts of time and may lengthen the process to get to superintelligence.
 
 One important note to consider is that the post by epoch.AI is estimtaing that we'll see a 10,000 fold increase in the number of FLOPs (floating point operations - used to quantify training volume) from the 2024 benchmark. This is still a pretty large increase.
 
-Ask Claude - how does this line up with how much we think we'll need for AGI?
-
 #### The nature of problems
-One common argument is that while superintelligence may become exponentially more intelligent and capable, problems also become exceptionally more difficult to solve (perhaps at a quicker rate).
+One common argument is that while superintelligence may become exponentially more intelligent and capable, problems also become exceptionally more difficult to solve (perhaps at a quicker rate than capabilities).
 
-This is hard to know because who knows what the frontier of problems looks like. Some may be simply unsolvable. Aschenbrenner frames the question simply: for every 10x of progress, does further progress become more or less than 10x harder?
+This is hard to know because who knows what the frontier of problems looks like once we have superintelligent AI. Aschenbrenner frames the question simply: for every 10x of progress, does further progress become more or less than 10x harder?
 
 Again, [epoch.AI](https://epoch.ai/blog/do-the-returns-to-software-rnd-point-towards-a-singularity#conclusion) has done some thinking about this and found that based on recent technological advancement, we're seeing that there seems to be hyperbolic growth in the ability to solve problems with software.
 
-Personally, I'm not quite satisfied with setting this bottleneck aside because it's imperfect to simply project what we've observed thus far into a world so far down the line. That said, if you're thinking in a probability distribution, it seems like you'd want to center your prediction on the "AI capabilities will outpace problem difficulty" side.
+Personally, I'm not quite satisfied with setting this bottleneck aside because it's imprecise to extrapolate this trend so far down the line. That said, if you're thinking in a probability distribution, it seems like you'd want to center your prediction on the "AI capabilities will outpace problem difficulty" side.
 
 #### Algorithmic Limitations
 We've seen significant algorithmic progress (which explains why AI models are getting so much cheaper to use), but there's a question of whether we'll be able to keep it up.
@@ -56,9 +54,3 @@ For the superintelligence argument in which AI will overcome all of human intell
 One thought that changed my perspective is that while thinking through how AI may struggle in these spaces without much data, I began to realize how terrible humans must be at figuring things out in these fields. For example, people who study international relations are probably terrible at international relations compared to how good you could be. They simply don't have much data - they aren't able to run experiments. So, perhaps it's totally fine that AI won't have much data. It doesn't need to be perfect, or anywhere near it, to be better than humans.
 #### What's next?
 One conclusion I've drawn from reading Aschenbrenner's paper and writing this post is that superintelligence will very likely come quick once we get cost-effective AGI and if it doesn't, well it may be impossible. Exponential takeoff requires that the speed at which AI increases in intelligence must be a function of how much intelligence it currently has. So, for this whole thing to work out, AGI -> superintelligence has to happen quickly.
-
-For me, I join Aschenbrenner in defining AGI as when AI can automate an AI researcher. I define superintelligence as when AI can automate every single human job at a lower cost.
-
-Next, I'll be writing about AI safety because we've only solved one part of the problem - will AI become superintelligent - and we still have to answer the second part - how can we make superintelligence work for *us*?
-
-[[Is Aschenbrenner Right?]]

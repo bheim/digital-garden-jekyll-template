@@ -2,10 +2,13 @@
 layout: default
 title: Writing
 ---
+#### General Thoughts
 [[On Methodology]]
 
-[[Choosing a Target Customer for Peak]]
+#### AI
+#### AI Capabilities
+[[Personal Summary of Aschenbrenner's Situational Awareness]]
+[[Is Aschenbrenner Right?]]
 
+#### Other
 [[I was curious whether I should be concerned about the carbon emissions from ChatGPT]]
-
-[[AI Safety - A Growing Attempt to Understand the Field]]

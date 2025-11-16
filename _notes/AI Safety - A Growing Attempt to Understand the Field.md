@@ -6,7 +6,7 @@ Its justification is a straightforward argument: there is a good chance that art
 How good will AI get and how will it happen?
 
 [[Situational Awareness, The Decade Ahead]]
-[[My Thoughts on AI Capabilities]]
+[[Personal Summary of Aschenbrenner's Situational Awareness]]
 
 ### Alignment
 IBM defines AI alignment as **the process of encoding human values and goals into AI models to make them as helpful, safe and reliable as possible**. Cracking what this means is difficult, if not impossible, due to the moving targets within it. Human "values" and "goals" are not static and they are not common. Different people and cultures will have different notions of what AI should do.
